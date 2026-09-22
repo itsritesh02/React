@@ -7,5 +7,7 @@ SPA stands for Single Page Application. It is a web application where the browse
 #### Advantages 
 
 1.faster load time 
+---
 2.Better Responsiveness
+---
 3.Smoother User Interactions
